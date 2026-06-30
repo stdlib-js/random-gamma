@@ -396,6 +396,14 @@ logEach( '%f, %f, %f', arr[ 0 ], arr[ 1 ], arr[ 2 ] );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-base/gamma`][@stdlib/random/base/gamma]</span><span class="delimiter">: </span><span class="description">gamma distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-array/gamma`][@stdlib/random/array/gamma]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a gamma distribution.</span>
+-   <span class="package-name">[`@stdlib/random-strided/gamma`][@stdlib/random/strided/gamma]</span><span class="delimiter">: </span><span class="description">fill a strided array with pseudorandom numbers drawn from a gamma distribution.</span>
+
 </section>
 
 <!-- /.related -->
@@ -483,6 +491,14 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/ndarray/ctor]: https://github.com/stdlib-js/ndarray-ctor
 
 [@stdlib/ndarray/base/broadcast-shapes]: https://github.com/stdlib-js/ndarray-base-broadcast-shapes
+
+<!-- <related-links> -->
+
+[@stdlib/random/array/gamma]: https://github.com/stdlib-js/random-array-gamma
+
+[@stdlib/random/strided/gamma]: https://github.com/stdlib-js/random-strided-gamma
+
+<!-- </related-links> -->
 
 </section>
 

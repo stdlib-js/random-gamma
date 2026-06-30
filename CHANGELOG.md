@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-25)
+## Unreleased (2026-06-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`99276e8`](https://github.com/stdlib-js/stdlib/commit/99276e802dbb6588137ff27b4175a0a54219ddc0) - **docs:** update related packages sections [(#13202)](https://github.com/stdlib-js/stdlib/pull/13202) _(by stdlib-bot)_
 -   [`1977f92`](https://github.com/stdlib-js/stdlib/commit/1977f92944b56c40c27b23d74570f2958adc7a39) - **docs:** update documented default value for `submode` option [(#13106)](https://github.com/stdlib-js/stdlib/pull/13106) _(by Philipp Burckhardt)_
 
 </details>
